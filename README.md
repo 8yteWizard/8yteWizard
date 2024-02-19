@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=SegoeUI&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome;To+My+Projects;Enjoy+<3"/>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/8yteWizard?style=flat&logo=github">
 </h1>
 
 
